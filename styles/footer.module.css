@@ -1,0 +1,8 @@
+/* 最好不要使用 标签直接定义属性,应该给个类名或者id */
+.footer {
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  color: #fff;
+  background-color: #222;
+}
